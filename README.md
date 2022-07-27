@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Arthur 😁
+## Bem-vindo(a) ao perfil do arthur-resende1 😁
 
  <div>
    <a href="https://github.com/arthur-resende1">
